@@ -1,6 +1,6 @@
 name: James
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5018133884295821
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.4512286181561649
